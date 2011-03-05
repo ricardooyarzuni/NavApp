@@ -1,0 +1,264 @@
+TNavApp
+v7
+r0
+t320974319.045033
+cCheck dependencies
+cProcessInfoPlistFile /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/Info.plist NavApp-Info.plist
+cCompileXIB /Users/royarzun/src/NavApp/MainWindow.xib
+cCompileXIB /Users/royarzun/src/NavApp/RootViewController.xib
+cProcessPCH /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch.gch NavApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/main.o /Users/royarzun/src/NavApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavAppAppDelegate.o /Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/RootViewController.o /Users/royarzun/src/NavApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp normal i386
+cGenerateDSYMFile /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app.dSYM /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp
+cTouch /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C68C75C0000000000000132
+t1281935196
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.h
+c000000004D71745300000000000001EB
+t1299280979
+s491
+i<UIKit/UIKit.h>
+
+N/Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m
+c000000004D7174530000000000000AB4
+t1299280979
+s2740
+i"NavAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/royarzun/src/NavApp/Classes/RootViewController.h
+c000000004D7174530000000000000105
+t1299280979
+s261
+i<UIKit/UIKit.h>
+
+N/Users/royarzun/src/NavApp/Classes/RootViewController.m
+c000000004D71766D00000000000010F8
+t1299281517
+s4344
+i"RootViewController.h"
+
+N/Users/royarzun/src/NavApp/MainWindow.xib
+c000000004D7174530000000000005FF0
+t1299280979
+s24560
+
+N/Users/royarzun/src/NavApp/NavApp_Prefix.pch
+c000000004D717453000000000000013E
+t1299280979
+s318
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/royarzun/src/NavApp/RootViewController.xib
+c000000004D7174530000000000004451
+t1299280979
+s17489
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app
+t1299281519
+s238
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app.dSYM
+t1299281519
+s102
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/Info.plist
+t1299280986
+s587
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/MainWindow.nib
+t1299280986
+s1508
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp
+t1299281519
+s17880
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/PkgInfo
+t1299280986
+s8
+
+N/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/RootViewController.nib
+t1299280986
+s979
+
+N/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavApp.LinkFileList
+c000000004D71745A000000000000015F
+t1299280986
+s351
+
+N/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavAppAppDelegate.o
+t1299280988
+s49316
+
+N/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/RootViewController.o
+t1299281519
+s38168
+
+N/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/main.o
+t1299280988
+s6280
+
+N/Users/royarzun/src/NavApp/main.m
+c000000004D7174530000000000000183
+t1299280979
+s387
+i<UIKit/UIKit.h>
+
+N/var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch.gch
+t1299280988
+s15232016
+
+NNavApp-Info.plist
+c000000004D717453000000000000038D
+t1299280979
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320974318#320974318#0(0"0(0#1#0"8613390336#0"0#
+
+CCompileC build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavAppAppDelegate.o /Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320973788.355704
+e320973788.433841
+r1
+xCompileC
+xbuild/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavAppAppDelegate.o
+x/Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m320973788#320973788#0(0"0(0#0#54"/Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m8601591552#1783"    cd /Users/royarzun/src/NavApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-generated-files.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-own-target-headers.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-all-target-headers.hmap -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-project-headers.hmap -F/Users/royarzun/src/NavApp/build/Debug-iphonesimulator -I/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/include -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources/i386 -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch -c /Users/royarzun/src/NavApp/Classes/NavAppAppDelegate.m -o /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavAppAppDelegate.o0#
+
+CCompileC build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/RootViewController.o /Users/royarzun/src/NavApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320974318.952512
+e320974319.006789
+r1
+xCompileC
+xbuild/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/RootViewController.o
+x/Users/royarzun/src/NavApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/royarzun/src/NavApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/royarzun/src/NavApp/Classes/RootViewController.m:81: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@63"Compile /Users/royarzun/src/NavApp/Classes/RootViewController.m320974318#320974319#0(391"/Users/royarzun/src/NavApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/royarzun/src/NavApp/Classes/RootViewController.m:81: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)320974318#127#264#0(6@55"/Users/royarzun/src/NavApp/Classes/RootViewController.m320974317#81#0#81#0#33"'*' is deprecated (declared at *)0(0#0#55"/Users/royarzun/src/NavApp/Classes/RootViewController.m8613527520#1785"    cd /Users/royarzun/src/NavApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-generated-files.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-own-target-headers.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-all-target-headers.hmap -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-project-headers.hmap -F/Users/royarzun/src/NavApp/build/Debug-iphonesimulator -I/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/include -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources/i386 -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch -c /Users/royarzun/src/NavApp/Classes/RootViewController.m -o /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/main.o /Users/royarzun/src/NavApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320973788.354000
+e320973788.410213
+r1
+xCompileC
+xbuild/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/main.o
+x/Users/royarzun/src/NavApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/royarzun/src/NavApp/main.m320973788#320973788#0(0"0(0#0#33"/Users/royarzun/src/NavApp/main.m8603537600#1749"    cd /Users/royarzun/src/NavApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-generated-files.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-own-target-headers.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-all-target-headers.hmap -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-project-headers.hmap -F/Users/royarzun/src/NavApp/build/Debug-iphonesimulator -I/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/include -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources/i386 -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources -include /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch -c /Users/royarzun/src/NavApp/main.m -o /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/royarzun/src/NavApp/MainWindow.xib
+s320973786.223699
+e320973786.608523
+r1
+xCompileXIB
+x/Users/royarzun/src/NavApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320973786#320973786#0(0"0(0#0#41"/Users/royarzun/src/NavApp/MainWindow.xib8603196352#533"    cd /Users/royarzun/src/NavApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/MainWindow.nib /Users/royarzun/src/NavApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/royarzun/src/NavApp/RootViewController.xib
+s320973786.224643
+e320973786.733478
+r1
+xCompileXIB
+x/Users/royarzun/src/NavApp/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib320973786#320973786#0(0"0(0#0#49"/Users/royarzun/src/NavApp/RootViewController.xib8602726240#549"    cd /Users/royarzun/src/NavApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/RootViewController.nib /Users/royarzun/src/NavApp/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app.dSYM /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp
+s320974319.026393
+e320974319.041780
+r1
+xGenerateDSYMFile
+x/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app.dSYM
+x/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/NavApp.app.dSYM build/Debug-iphonesimulator/NavApp.app/NavApp320974319#320974319#0(0"0(0#0#72"/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp8613240320#344"    cd /Users/royarzun/src/NavApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp -o /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app.dSYM0#
+
+CLd /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp normal i386
+s320974319.006880
+e320974319.026262
+r1
+xLd
+x/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp
+xnormal
+xi386
+lSLF07#2@77"Link /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp320974319#320974319#0(0"0(0#0#0"31525678434287664#835"    cd /Users/royarzun/src/NavApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/royarzun/src/NavApp/build/Debug-iphonesimulator -F/Users/royarzun/src/NavApp/build/Debug-iphonesimulator -filelist /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/Objects-normal/i386/NavApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/NavApp0#
+
+CProcessInfoPlistFile /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/Info.plist NavApp-Info.plist
+s320973786.211948
+e320973786.223592
+r1
+xProcessInfoPlistFile
+x/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/Info.plist
+xNavApp-Info.plist
+lSLF07#2@25"Process NavApp-Info.plist320973786#320973786#0(0"0(0#0#44"/Users/royarzun/src/NavApp/NavApp-Info.plist27303270316769392#440"    cd /Users/royarzun/src/NavApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavApp-Info.plist -genpkginfo /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app/Info.plist0#
+
+CProcessPCH /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch.gch NavApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320973786.733762
+e320973788.353632
+r1
+xProcessPCH
+x/var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch.gch
+xNavApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile NavApp_Prefix.pch320973786#320973788#0(0"0(0#0#44"/Users/royarzun/src/NavApp/NavApp_Prefix.pch8602662656#1654"    cd /Users/royarzun/src/NavApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-generated-files.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-own-target-headers.hmap -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-all-target-headers.hmap -iquote /Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/NavApp-project-headers.hmap -F/Users/royarzun/src/NavApp/build/Debug-iphonesimulator -I/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/include -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources/i386 -I/Users/royarzun/src/NavApp/build/NavApp.build/Debug-iphonesimulator/NavApp.build/DerivedSources -c /Users/royarzun/src/NavApp/NavApp_Prefix.pch -o /var/folders/Po/PoNTd6AnGrOdhDtfvqwQ0U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NavApp_Prefix-hlcyitkpzoubfscqftzibejrjbdh/NavApp_Prefix.pch.gch0#
+
+CTouch /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app
+s320974319.041903
+e320974319.044961
+r1
+xTouch
+x/Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app
+lSLF07#2@71"Touch /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app320974319#320974319#0(0"0(0#0#0"8612752928#253"    cd /Users/royarzun/src/NavApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/royarzun/src/NavApp/build/Debug-iphonesimulator/NavApp.app0#
+
