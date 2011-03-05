@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface RootViewController : UITableViewController {
+	IBOutlet UIButton *Button;
 }
+
+@property(nonatomic,retain) IBOutlet UIButton *Button;
+
+- (IBAction)updateText:(id)sender;
 
 @end
